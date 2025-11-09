@@ -1,4 +1,4 @@
-### Hi there, I'm hariikk 👋
+### Hi there, I'm Hari 👋
 
 
 
