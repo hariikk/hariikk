@@ -10,11 +10,23 @@ My goal is to develop robust, intelligent systems, and I'm actively building my 
 
 ### 🛠️ My Tech Stack
 
-**Languages & Tools**
-* Python
-* Jupyter Notebook
-* TeX / LaTeX
+This stack reflects my focus on machine learning and scientific research.
 
+**Languages & Core Tools**
+* **Languages:** Python, TeX / LaTeX
+* **Version Control:** Git & GitHub
+
+**Machine Learning & Deep Learning**
+* **Frameworks:** TensorFlow, PyTorch
+* **Classical ML:** Scikit-learn
+* **NLP:** Hugging Face Transformers, NLTK (for tasks like machine translation)
+* **Computer Vision:** OpenCV
+
+**Data Science & Scientific Computing**
+* **Data Handling:** Pandas, NumPy
+* **Computation:** SciPy (especially for ODEs)
+* **Development:** Jupyter Notebook, Google Colab
+* **Plotting:** Matplotlib, Seaborn
 ---
 
 ### 🚀 My Key Projects
