@@ -4,7 +4,7 @@
 
 I'm a Master's student in **Autonomous Systems** at the **Hochschule Bonn-Rhein-Sieg (HBRS)**, where I'm focusing on the intersection of robotics, multi-sensor data, and machine learning.
 
-My goal is to develop robust, intelligent systems, and I'm actively building my skills through hands-on research and development. My projects often involve simulation, control systems, and applying ML models to real-world robotics challenges.
+My goal is to develop robust, intelligent systems, and I'm actively building my skills through hands-on research and development. My projects often involve applying ML models to real-world robotics challenges,  simulation, control systems.
 
 ---
 
@@ -21,6 +21,11 @@ This stack reflects my focus on machine learning and scientific research.
 * **Classical ML:** Scikit-learn
 * **NLP:** Hugging Face Transformers, NLTK (for tasks like machine translation)
 * **Computer Vision:** OpenCV
+
+**Robotics & Autonomous Systems**
+* **Core:** ROS (Robot Operating Kystem)
+* **Simulation:** Gazebo
+* **State Estimation:** FilterPy (for Kalman Filters and sensor fusion)
 
 **Data Science & Scientific Computing**
 * **Data Handling:** Pandas, NumPy
