@@ -66,5 +66,5 @@ My coursework and research involve formal scientific experimentation, evaluation
 
 I'm always open to discussing new projects, research opportunities, or innovations in autonomous systems and AI.
 
-* **LinkedIn:** `[https://www.linkedin.com/in/hari-krishna-m-59a95a1b5/]`
+* **LinkedIn:** `https://www.linkedin.com/in/hari-krishna-m-59a95a1b5/`
 * **Email:** `harikrishnam0711@gmail.com`
